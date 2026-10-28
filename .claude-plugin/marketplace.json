@@ -1,0 +1,13 @@
+{
+  "name": "luuk-plugins",
+  "description": "TODO: one line about this marketplace",
+  "owner": {
+    "name": "Luuk"
+  },
+  "plugins": [
+    {
+      "name": "kill-or-build",
+      "source": "./"
+    }
+  ]
+}
