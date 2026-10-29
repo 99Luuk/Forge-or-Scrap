@@ -1,9 +1,9 @@
 ---
-name: validate-idea
+name: forge-or-scrap
 description: TODO when should Claude use this skill. Max 200 characters, this is what decides if it triggers.
 ---
 
-# Startup Idea Validator
+# Forge or Scrap
 
 TODO what this skill does and the attitude Claude should have
 
