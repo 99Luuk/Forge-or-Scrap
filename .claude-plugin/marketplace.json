@@ -1,8 +1,8 @@
 {
-  "name": "luuk-plugins",
-  "description": "TODO: one line about this marketplace",
+  "name": "luuk-dekker",
+  "description": "Validate project ideas before you build them",
   "owner": {
-    "name": "Luuk"
+    "name": "Luuk Dekker"
   },
   "plugins": [
     {
