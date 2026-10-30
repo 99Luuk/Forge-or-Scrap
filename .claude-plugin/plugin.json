@@ -1,8 +1,13 @@
 {
   "name": "forge-or-scrap",
-  "description": "Forge or Scrap your project idea",
+  "displayName": "Forge or Scrap",
+  "description": "Find out if your project or startup idea is worth building. Researches demand, competition and risks with sourced evidence, then gives a Forge, Reforge or Scrap verdict.",
   "version": "0.1.0",
   "author": {
     "name": "Luuk Dekker"
-  }
+  },
+  "homepage": "https://github.com/99Luuk/Forge-or-Scrap",
+  "repository": "https://github.com/99Luuk/Forge-or-Scrap",
+  "license": "MIT",
+  "keywords": ["startup", "idea-validation", "market-research", "product"]
 }
