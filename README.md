@@ -1,4 +1,4 @@
-# Forge or Scrap
+![Forge or Scrap: validate project ideas before you build them](assets/card.png)
 
 A Claude Code skill that tells you whether a project or startup idea is worth building. It asks you a few questions, researches the idea on the web and gives one of three verdicts:
 
